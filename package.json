@@ -1,6 +1,6 @@
 {
     "name": "resume-pin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "📌📝 Minimal React component combining Material UI icons into a ResumePin - perfect for \"summarize and pin\" features.",
     "main": "src/ResumePin.jsx",
     "files": [
