@@ -1,0 +1,21 @@
+{
+    "name": "resume-pin",
+    "version": "1.0.0",
+    "description": "📌📝 Minimal React component combining Material UI icons into a ResumePin - perfect for \"summarize and pin\" features.",
+    "main": "src/ResumePin.jsx",
+    "peerDependencies": {
+        "react": ">=16.8.0",
+        "@mui/icons-material": ">=5.0.0",
+        "@mui/material": ">=5.0.0"
+    },
+    "keywords": [
+        "react",
+        "material-ui",
+        "icon",
+        "pin",
+        "notes",
+        "summary"
+    ],
+    "author": "GPT-UA",
+    "license": "MIT"
+}
