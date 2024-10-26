@@ -1,11 +1,11 @@
 import React from 'react'
 import { Notes, PushPinOutlined } from '@mui/icons-material'
 
-const ResumePin = ({ fontSize = 'small', ...props }) => (
-    <div {...props}>
+const ResumePin = ({ fontSize = 'small' }) => (
+    <>
         <Notes sx={{ position: 'absolute', top: '15px' }} fontSize={fontSize} />
         <PushPinOutlined fontSize={fontSize} />
-    </div>
+    </>
 )
 
 export default ResumePin
